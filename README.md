@@ -3,12 +3,6 @@
 
 ---
 
-<img src="image.jpg"
-     alt="Thumbs up"
-     style="float: center; margin-right: 10px;"
-     width=300/
-     align="right">
-
 - 🔭 I’m currently working on **CS Undergraduate BS**
 
 - 🌱 I’m currently learning **Docker and malicious traffic logging**
