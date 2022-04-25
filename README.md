@@ -1,4 +1,4 @@
-<h1 align="center">  Hello! I'm Keith DeSantis</h1>
+<h1 align="center">👋 Hello! I'm Keith DeSantis</h1>
 
 <p align="center">
     <b>Computer Science undergraduate at Worcester Polytechnic Institute</b>
