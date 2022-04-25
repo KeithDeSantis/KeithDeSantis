@@ -5,7 +5,7 @@
 
 <img src="image.jpg"
      alt="Thumbs up"
-     style="float: center; margin-right: 10px; margin-top: 50px"
+     style="float: center; margin-right: 10px;"
      width=400/
      align="right">
 
@@ -21,5 +21,7 @@
 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeithDeSantis&layout=compact&theme=cobalt&langs_count=6)
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=keithdesantis&show_icons=true&locale=en" alt="keithdesantis" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=keithdesantis&" alt="keithdesantis" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keithdesantis&show_icons=true&locale=en" alt="keithdesantis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keithdesantis&" alt="keithdesantis" /></p>
