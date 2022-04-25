@@ -5,7 +5,7 @@
 
 <img src="image.jpg"
      alt="Thumbs up"
-     style="float: center; margin-right: 10px;"
+     style="float: center; margin-right: 10px; margin-top: 50px"
      width=400/
      align="right">
 
