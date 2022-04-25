@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keith DeSantis</h1>
-<h3 align="center">A Computer Science undergraduate at Worcester Polytechnic Institute</h3>
+<h3 align="center">A Computer Science undergraduate at Worcester Polytechnic Institute. I have an interest in Software Development and Cybersecurity. I will be working at The Portsmouth Naval Shipyard in Kittery Maine for 2 years following graduation in May 2023.</h3>
 
 ---
-
-I have an interest in Software Development and Cybersecurity. I will be working at The Portsmouth Naval Shipyard in Kittery Maine for 2 years following graduation in May 2023.
 
 <img src="image.jpg"
      alt="Thumbs up"
