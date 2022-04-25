@@ -6,7 +6,7 @@
 <img src="image.jpg"
      alt="Thumbs up"
      style="float: center; margin-right: 10px;"
-     width=400/
+     width=300/
      align="right">
 
 - 🔭 I’m currently working on **CS Undergraduate BS**
