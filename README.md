@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello! I'm Keith DeSantis</h1>
-
+![Alt Text](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 <p align="center">
     <b>Computer Science undergraduate at Worcester Polytechnic Institute</b>
 </p>
