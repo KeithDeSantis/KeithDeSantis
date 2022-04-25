@@ -7,7 +7,8 @@ I have an interest in Software Development and Cybersecurity. I will be working 
 
 <img src="image.jpg"
      alt="Thumbs up"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;"
+     width=50/>
 
 - 🔭 I’m currently working on **CS Undergraduate BS**
 
