@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **CS Undergraduate BS**
 
-- 🌱 I’m currently learning **Docker and malicious traffic logging**
+- 🌱 I’m currently learning **SDN networking, security engineering, Docker and malicious traffic logging**
 
 - 📫 How to reach me **[kwdesantis@wpi.edu](mailto:kwdesantis@wpi.edu) | [keithwdesantis@gmail.com](mailto:keithwdesantis@gmail.com)**
 
