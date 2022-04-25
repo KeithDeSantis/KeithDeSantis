@@ -13,6 +13,8 @@
 
 - 🌱 I’m currently learning **Docker and malicious traffic logging**
 
+- 👀 Other interests: Rowing, Video Games, Board Games, CTF
+
 - 📫 How to reach me **[kwdesantis@wpi.edu](mailto:kwdesantis@wpi.edu) | [keithwdesantis@gmail.com](mailto:keithwdesantis@gmail.com)**
 ---
 <h3 align="left">Skills:</h3>
