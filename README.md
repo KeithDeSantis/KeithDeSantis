@@ -4,7 +4,7 @@
     <b>Computer Science undergraduate at Worcester Polytechnic Institute</b>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keithdesantis&label=Profile%20views&color=0e75b6&style=flat" alt="keithdesantis" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=keithdesantis&label=Profile%20views&color=0e75b6&style=flat" alt="keithdesantis" /> </p>
 
 ---
 <h3 align="center">I have an interest in Software Development and Cybersecurity. I will be working at The Portsmouth Naval Shipyard in Kittery Maine for 2 years following graduation in May 2023.</h3>
