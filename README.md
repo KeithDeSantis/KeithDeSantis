@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keithdesantis&label=Profile%20views&color=0e75b6&style=flat" alt="keithdesantis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithdesantis" alt="keithdesantis" /></a> </p>
-
 ---
 <h3 align="center">I have an interest in Software Development and Cybersecurity. I will be working at The Portsmouth Naval Shipyard in Kittery Maine for 2 years following graduation in May 2023.</h3>
 
