@@ -4,7 +4,13 @@
 ---
 
 I have an interest in Software Development and Cybersecurity. I will be working at The Portsmouth Naval Shipyard in Kittery Maine for 2 years following graduation in May 2023.
-![image alt >](/image.jpg)
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
 
 
 <h3 align="left">Languages and Tools:</h3>
