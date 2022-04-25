@@ -4,13 +4,16 @@
 ---
 
 I have an interest in Software Development and Cybersecurity. I will be working at The Portsmouth Naval Shipyard in Kittery Maine for 2 years following graduation in May 2023.
-![image alt >](/image.jpg)
 
-- 🔭 I’m currently working on **CS Undergraduate**
+<img src="image.jpg"
+     alt="Thumbs up"
+     style="float: left; margin-right: 10px;" />
+
+- 🔭 I’m currently working on **CS Undergraduate BS**
 
 - 🌱 I’m currently learning **Docker and malicious traffic logging**
 
-- 📫 How to reach me **kwdesantis@wpi.edu, keithwdesantis@gmail.com**
+- 📫 How to reach me **kwdesantis@wpi.edu keithwdesantis@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
