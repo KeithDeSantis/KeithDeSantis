@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Docker and malicious traffic logging**
 
-- 📫 How to reach me **[kwdesantis@wpi.edu](kwdesantis@wpi.edu) | [keithwdesantis@gmail.com](keithwdesantis@gmail.com)**
+- 📫 How to reach me **[kwdesantis@wpi.edu](mailto:kwdesantis@wpi.edu) | [keithwdesantis@gmail.com](mailto:keithwdesantis@gmail.com)**
 
 
 <h3 align="left">Skills:</h3>
