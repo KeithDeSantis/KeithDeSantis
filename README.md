@@ -15,6 +15,8 @@
 
 - 🌱 I’m currently learning **SDN networking, security engineering, Docker, serverless computing and malicious traffic logging**
 
+- 🎓 Check out my [Undergraduate Repository](https://github.com/KeithDeSantis/CS-Undergraduate) to see my schoolwork from my Undergraduate Degree at Worcester Polytechnic Institute
+
 - 📫 How to reach me **[kwdesantis@wpi.edu](mailto:kwdesantis@wpi.edu) | [keithwdesantis@gmail.com](mailto:keithwdesantis@gmail.com)**
 
 - 👀 Other interests: Rowing, Video Games, Board Games, CTF, D&D, Books, Guitar, Baking
