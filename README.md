@@ -31,4 +31,4 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keithdesantis&layout=compact&theme=cobalt&langs_count=6)
 
-*Note: Please ignore the inclusion of Roff, this is an artifact of some class materials I have saved across my repos*
+*Note: Please ignore the inclusion of ***Roff***, this is an artifact of some class materials I have saved across my repos*
