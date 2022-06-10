@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=keithdesantis&label=Profile%20views&color=0e75b6&style=flat" alt="keithdesantis" /> </p>
 
 ---
-<h3 align="center">I have an interest in Software Development and Cybersecurity.</h3>
+<h3 align="center">I have interests in Software Development, Network Administration and Cybersecurity.</h3>
 
 ---
 
