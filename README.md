@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Keith DeSantis</h1>
 
 <p align="center">
-    <b>Computer Science undergraduate at Worcester Polytechnic Institute</b>
+    <b>Computer Science with Focus in Cybersecurity undergraduate at Worcester Polytechnic Institute</b>
 </p>
 
 ---
