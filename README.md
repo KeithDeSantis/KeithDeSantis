@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **CS Undergraduate BS**
 
-- 🌱 I’m currently learning **SDN networking, PHP, JavaScript, Docker and malicious traffic logging**
+- 🌱 I’m currently learning **SDN networking, PHP, JavaScript, Docker and Control Flow Enforcement on the Web**
 
 - 🎓 Check out my [Undergraduate Repository](https://github.com/KeithDeSantis/CS-Undergraduate) to see my schoolwork from my Computer Science Undergraduate Degree
 
