@@ -32,7 +32,7 @@ Here are a few of my favorite projects/works on my GitHub to check out:
 
 * A [Brigham and Women's Hospital Kiosk App](https://github.com/KeithDeSantis/Brigham-And-Womens-Kiosk-App) developed by me and a team of 10 other students over the course of a term for my Software Engineering course. This was one of the largest projects I'd worked on both in codebase and size of collaborators and I was very proud of the final product.
 
-* A personal project, [`Picasso`](https://github.com/KeithDeSantis/PicAsso), originally developed to try to sort album colors into collages vaguely based on dominant colors using AI. I've since expanded on it to have to ability to recreate refernce images from a set of source images, allowing me to recreate some of my favorite album covers out of other albums I love, but it can be used for any such purpose.
+* A personal project, [`Picasso`](https://github.com/KeithDeSantis/PicAsso), originally developed to try to sort album colors into collages vaguely based on dominant colors using AI, with built in Spotify Integration. I've since expanded on it to have to ability to recreate refernce images from a set of source images, allowing me to recreate some of my favorite album covers out of other albums I love, but it can be used for any such purpose.
 
 * A simple simulation of the spread of disease using the [SIR model](https://github.com/KeithDeSantis/SIR-Simulator-With-Animation). This one is by far the worst code I have on my GitHub, but has a special place in my heart as it is the very first time I began programming and successfully created a project I set my mind to.
     
