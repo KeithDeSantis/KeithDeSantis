@@ -35,6 +35,8 @@
 * 🎨  A personal project, [`Picasso`](https://github.com/KeithDeSantis/PicAsso), originally developed to try to sort albums into collages based on dominant colors using AI, with built in Spotify Integration. I've since expanded on it to have to ability to recreate refernce images from a set of source images, allowing me to recreate some of my favorite album covers out of other albums I love, but it can be used for any such purpose.
 
 * 📈  A simple simulation of the spread of disease using the [SIR model](https://github.com/KeithDeSantis/SIR-Simulator-With-Animation). This one is by far the worst code I have on my GitHub, but has a special place in my heart as it is the very first time I began programming and successfully created a project I set my mind to.</h3>
+
+* 🎓    Finally, all the cumulative work of my Computer Science [Undergraduate Degree](https://github.com/KeithDeSantis/CS-Undergraduate.git) at Worcester Polytechnic Institute can be found in a repository, separated by class.
     
 ---    
     
