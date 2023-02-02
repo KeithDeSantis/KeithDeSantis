@@ -8,16 +8,18 @@
 <h3 align="center">I have interests in Software Development, Network Administration and Cybersecurity.</h3>
 
 ---
+Here are a few of my favorite projects/works on my GitHub to check out:
+
+* My Network Security Class consisted of three "Missions" where we built an infrastructure, executed an attack, and built a functioning defense of our own design based on a topic. They dealt with [Web Infrastructure Security](https://github.com/KeithDeSantis/CS-Undergraduate/blob/master/4404%20Network%20Security/Mission_1/Mission%201%20Writeup.pdf), [Mutli-Factor Authentication](https://github.com/KeithDeSantis/CS-Undergraduate/blob/master/4404%20Network%20Security/Mission_2/Mission%202%20Writeup.pdf), and [Botnets and Intrusion Detection Systems](https://github.com/KeithDeSantis/CS-Undergraduate/blob/master/4404%20Network%20Security/Mission_3/Mission%203%20Writeup.pdf).
+
+
+---
 
 - 🔭 I’m currently working on **CS Undergraduate BS**
 
 - 🌱 I’m currently learning **SDN networking, PHP, JavaScript, Docker and Control Flow Enforcement on the Web**
 
 - 🎓 Check out my [Undergraduate Repository](https://github.com/KeithDeSantis/CS-Undergraduate) to see my schoolwork from my Computer Science Undergraduate Degree
-
-- Here are a few parts of my GitHub I'm proud of:
-
-* My Network Security Class consisted of three "Missions" where we built an infrastructure, executed an attack, and built a functioning defense of our own design based on a topic. They dealt with [Web Infrastructure Security](https://github.com/KeithDeSantis/CS-Undergraduate/blob/master/4404%20Network%20Security/Mission_1/Mission%201%20Writeup.pdf), [Mutli-Factor Authentication](https://github.com/KeithDeSantis/CS-Undergraduate/blob/master/4404%20Network%20Security/Mission_2/Mission%202%20Writeup.pdf), and [Botnets and Intrusion Detection Systems](https://github.com/KeithDeSantis/CS-Undergraduate/blob/master/4404%20Network%20Security/Mission_3/Mission%203%20Writeup.pdf).
 
 - 📫 How to reach me **[kwdesantis@wpi.edu](mailto:kwdesantis@wpi.edu) | [keithwdesantis@gmail.com](mailto:keithwdesantis@gmail.com)**
 
