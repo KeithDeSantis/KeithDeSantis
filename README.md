@@ -15,7 +15,7 @@
 
 - 🎓 Check out my [Undergraduate Repository](https://github.com/KeithDeSantis/CS-Undergraduate) to see my schoolwork from my Computer Science Undergraduate Degree
 
-- 📫 How to reach me **[kwdesantis@wpi.edu](mailto:kwdesantis@wpi.edu) | [keithwdesantis@gmail.com](mailto:keithwdesantis@gmail.com)**
+- 📫 How to reach me **[keithwdesantis@gmail.com](mailto:keithwdesantis@gmail.com) | [kwdesantis@wpi.edu](mailto:kwdesantis@wpi.edu)**
 
 - 👀 Other interests: Rowing, Video Games, Board Games, CTF, D&D, Books, Guitar, Baking
 ---
