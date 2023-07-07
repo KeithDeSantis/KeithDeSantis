@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working in **Cybersecurity and Network Defense**
 
-- 🌱 I’m currently learning **SDN networking, PHP, JavaScript, Docker and Control Flow Enforcement on the Web**
+- 🌱 I’m currently learning **SDN networking, PHP, JavaScript, and Web Development**
 
 - 🎓 Check out my [Undergraduate Repository](https://github.com/KeithDeSantis/CS-Undergraduate) to see my schoolwork from my Computer Science Undergraduate Degree
 
