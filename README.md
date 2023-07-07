@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on **CS Undergraduate BS**
+- 🔭 I’m currently working in **Cybersecurity and Network Defense**
 
 - 🌱 I’m currently learning **SDN networking, PHP, JavaScript, Docker and Control Flow Enforcement on the Web**
 
