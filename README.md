@@ -39,9 +39,10 @@
 * 🎓 Finally, all the cumulative work of my Computer Science [Undergraduate Degree](https://github.com/KeithDeSantis/CS-Undergraduate.git) at Worcester Polytechnic Institute can be found in a repository, separated by class.</h3>
     
 ---    
-    
+<div class="form-center">
 <h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keithdesantis&show_icons=true&locale=en&theme=cobalt" alt="keithdesantis" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keithdesantis&theme=cobalt" alt="keithdesantis" /></p>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keithdesantis&layout=compact&theme=cobalt&langs_count=6&hide=roff)
+</div>
