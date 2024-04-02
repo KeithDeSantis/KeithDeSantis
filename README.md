@@ -26,7 +26,7 @@
 
 <h3 align="center"> Here are a few of my favorite projects/works on my GitHub to check out:
 
-* 👮‍♂️ For my senior capstone project, [Warden](https://github.com/SuS-MQP/MQP), two friends and I designed and developed a system to detect control flow integrity compromises in PHP web applications. Warden did so by utilizing historical execution data and lightweight data structures. Designed to work within the Single Use Server architecture developed by Professor Craig Shue and his students.
+* 👮‍♂️ My senior capstone project, [Warden](https://github.com/SuS-MQP/MQP), involved two friends and I designing, developing, and implementing a system to detect control flow integrity compromises in PHP web applications. Warden did so by utilizing historical execution data and lightweight data structures. Designed to work within the Single Use Server architecture developed by Professor Craig Shue and his students.
 
 * 🔒 My Network Security Class consisted of three "Missions" where we built an infrastructure, executed an attack, and built a functioning defense of our own design based on a topic. They dealt with [Web Infrastructure Security](https://github.com/KeithDeSantis/CS-Undergraduate/blob/master/4404%20Network%20Security/Mission_1/Mission%201%20Writeup.pdf), [Multi-Factor Authentication](https://github.com/KeithDeSantis/CS-Undergraduate/blob/master/4404%20Network%20Security/Mission_2/Mission%202%20Writeup.pdf), and [Botnets and Intrusion Detection Systems](https://github.com/KeithDeSantis/CS-Undergraduate/blob/master/4404%20Network%20Security/Mission_3/Mission%203%20Writeup.pdf).
 
