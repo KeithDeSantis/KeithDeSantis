@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working in **Cybersecurity and Network Defense**
 
-- 🌱 I’m currently learning **Splunk, Security+, Web Development**
+- 🌱 I’m currently learning **React, Splunk, REST APIs, Web Development**
 
 - 🎓 Check out my [Undergraduate Repository](https://github.com/KeithDeSantis/CS-Undergraduate) to see my schoolwork from my Computer Science Undergraduate Degree
 
