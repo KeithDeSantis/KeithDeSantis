@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working in **Cybersecurity and Network Defense**
+- 🔭 I’m currently working in **Software Development and Cybersecurity**
 
 - 🌱 I’m currently learning **React, Splunk, REST APIs, Web Development**
 
