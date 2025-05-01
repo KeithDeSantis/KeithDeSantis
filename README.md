@@ -19,7 +19,7 @@
 
 - 👀 Other interests: Rowing, Video Games, Board Games, CTF, D&D, Books, Guitar, Baking
 ---
-<h3 align="left"><img style="filter: invert(1);" src="https://www.thatcompany.com/wp-content/uploads/2019/11/command-line.jpg" width="25" height="25" /> Skills:</h3>
+<h3 align="left"><img src="https://www.thatcompany.com/wp-content/uploads/2019/11/command-line.jpg" width="25" height="25" /> Skills:</h3>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
