@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hello! I'm Keith DeSantis</h1>
 
-<p align="center">
-    <b>Software Developer</b>
-</p>
-
 ---
 <h3 align="center">I have interests in Software Development, Network Administration and Cybersecurity.</h3>
 
