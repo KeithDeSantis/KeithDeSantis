@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Keith DeSantis</h1>
 
 <p align="center">
-    <b>Cybersecurity Developer, Administrator, and Analyst.</b>
+    <b>Software Developer</b>
 </p>
 
 ---
