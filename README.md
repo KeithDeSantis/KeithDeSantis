@@ -1,18 +1,16 @@
 <h1 align="center">👋 Hello! I'm Keith DeSantis</h1>
 
-<h3 align="center">I have interests in Software Development, Network Administration and Cybersecurity.</h3>
+<h3 align="center">I have interests in Software Engineering, Full Stack Development, and just about anything nerdy.</h3>
 
 ---
 
-- 🔭 I’m currently working in **Software Development and Cybersecurity**
-
-- 🌱 I’m currently learning **React, Splunk, REST APIs, Web Development**
+- 🔭 I’m currently working in **Software Development**
 
 - 🎓 Check out my [Undergraduate Repository](https://github.com/KeithDeSantis/CS-Undergraduate) to see my schoolwork from my Computer Science Undergraduate Degree
 
 - 📫 How to reach me **[keithwdesantis@gmail.com](mailto:keithwdesantis@gmail.com)**
 
-- 👀 Other interests: Rowing, Video Games, Board Games, CTF, D&D, Books, Guitar, Baking
+- 👀 Other interests: Rowing, Video Games, Board Games, Magic: The Gathering, D&D, Books, Guitar, Baking
 ---
 <h3 align="left"><img src="https://www.thatcompany.com/wp-content/uploads/2019/11/command-line.jpg" width="25" height="25" /> Skills:</h3>
 <p align="left"> 
