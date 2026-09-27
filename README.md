@@ -30,7 +30,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9YPJv7nSW0q-ymEMg2OVphHLWwSPjeYWzJRNtQvbdttW2a-x1auq1ag&s=10" alt="typescript" width="40" height="40"/> 
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
